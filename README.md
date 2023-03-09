@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mardav</h1>
+<h1 align="center">Hello, I'm Mardav Gandhi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning **REACT JS, Golang, Svelte and Solidity**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gandhi.mardav@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
