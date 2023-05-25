@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=marcdhi&icon=9&color=3)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
-I am currently working on AI, ML, Go, Blockchain, Backend <br>
+I am interested in working on AI, and Fullstack Development<br>
 
 
 ## 🌐 Socials:
