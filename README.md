@@ -6,7 +6,7 @@ I am interested in working on AI, and Fullstack Development<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mardavgandhi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardav-gandhi-a44103225/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mardav_Gandhi?t=xBqLawceXA1ZcyJQPw0DIw&s=09x) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardav-gandhi-a44103225/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mardav_Gandhi?t=xBqLawceXA1ZcyJQPw0DIw&s=09x) 
 
 
 # 📊 GitHub Stats:
@@ -17,11 +17,6 @@ I am interested in working on AI, and Fullstack Development<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=marcdhi&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Mardav_Gandhi?t=xBqLawceXA1ZcyJQPw0DIw&s=09)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=marcdhi&limit=5&theme=radical&combine_all_yearly_contributions=true)
