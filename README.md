@@ -2,7 +2,10 @@
 [![](https://visitcount.itsvg.in/api?id=marcdhi&icon=9&color=3)](https://visitcount.itsvg.in)
 ---
 # About Me:
-I am interested in working on AI, and Fullstack Development<br>
+* Hey there, I'm Mardav Gandhi, currently a 3rd-year undergrad at NITK.
+* I'm diving into Web development and exploring Fullstack, Web3, Machine Learning, and Artificial Intelligence.
+* Reach out to me at [gandhi.mardav@gmail.com](mailto:gandhi.mardav@gmail.com)
+
 
 
 ## Socials:
