@@ -4,6 +4,7 @@
 # About Me:
 * Hey there, I'm Mardav Gandhi, currently a 3rd-year undergrad at NITK.
 * I'm diving into Web development and exploring Fullstack, Web3, Machine Learning, and Artificial Intelligence.
+* Currently learning Golang and Rust.
 * Reach out to me at [gandhi.mardav@gmail.com](mailto:gandhi.mardav@gmail.com)
 
 
