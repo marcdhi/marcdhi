@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=marcdhi&icon=9&color=3)](https://visitcount.itsvg.in)
 ---
 # About Me:
-* Hey there, I'm Mardav Gandhi, currently a 4th-year undergrad at NITK.
+* Hey there, I'm Mardav Gandhi, grad from NITK.
 * I'm exploring Fullstack, Web3, Machine Learning, and Artificial Intelligence.
 * Currently learning Golang and Rust.
 * Interested to participate in Hackathons? Have exciting ideas to discuss? then reach out to me at [gandhi.mardav@gmail.com](mailto:gandhi.mardav@gmail.com)
